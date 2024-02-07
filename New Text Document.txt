@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-confilt basta dili ma match
-=======
-confilt basta dili ma match
->>>>>>> 5c34c7de00e502190907596908a60b1f9a71d096
