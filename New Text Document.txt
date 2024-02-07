@@ -1,0 +1,4 @@
+<<<<<<< HEAD
+=======
+last nalang jd ni
+>>>>>>> e7f57e39f5e4a0b11d12f07772cea93d46e6336f
